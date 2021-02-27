@@ -1,0 +1,3064 @@
+[ {
+  "dato" : "28.01.2021",
+  "kvitteringsnummer" : "113570",
+  "kjede" : null,
+  "butikknavn" : "KIWI 833 Damsgårdssundet",
+  "totaltBelop" : "165.96",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BÆREPOSE PR STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "2.00"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "1.192",
+    "vareBelop" : "23.72"
+  }, {
+    "varenavn" : "PÆRER .",
+    "vareAntallVekt" : "0.578",
+    "vareBelop" : "13.24"
+  }, {
+    "varenavn" : "EGG FRITTGÅENDE S/M 12STK FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.90"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "7.90"
+  }, {
+    "varenavn" : "FULLKORNRIS BOIL IN BAG 1KG ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "35.40"
+  }, {
+    "varenavn" : "PEANØTTER 330G POLLY",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "31.90"
+  }, {
+    "varenavn" : "POTET 2,5KG FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "29.90"
+  } ]
+}, {
+  "dato" : "22.01.2021",
+  "kvitteringsnummer" : "157943",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "342.94",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "7.90"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "LETTRØMME 18% 300G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.70"
+  }, {
+    "varenavn" : "HAVREGRYN LETTKOKTE 1,1KG BJØRN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "HVETEMEL SIKTET 2KG MØLLERENS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "EGG FRITTGÅENDE M/L 6PK PRIOR",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.40"
+  }, {
+    "varenavn" : "PIZZABUNN XXL FULLKORN 550G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "SPINATBLADER 450G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.90"
+  }, {
+    "varenavn" : "MAISKORN 380G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.90"
+  }, {
+    "varenavn" : "TOMAT SAUS PASSATA 680G DIVELLA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "TOMATER HAKKEDE NATURELL 390G ELDORADO",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "17.40"
+  }, {
+    "varenavn" : "CHAMPIGNON BAMA",
+    "vareAntallVekt" : "0.278",
+    "vareBelop" : "13.87"
+  }, {
+    "varenavn" : "PENNE FULLKORN 525G SOPPS",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "39.80"
+  }, {
+    "varenavn" : "BLOMKÅL STK",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "39.80"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.370",
+    "vareBelop" : "7.36"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.482",
+    "vareBelop" : "24.05"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "1.122",
+    "vareBelop" : "18.96"
+  } ]
+}, {
+  "dato" : "20.01.2021",
+  "kvitteringsnummer" : "109375",
+  "kjede" : null,
+  "butikknavn" : "KIWI 833 Damsgårdssundet",
+  "totaltBelop" : "19.90",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SOLSIKKEOLJE 1L ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  } ]
+}, {
+  "dato" : "19.01.2021",
+  "kvitteringsnummer" : "155496",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "409.25",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "AGURK HEL IMPORT",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "PÆRER .",
+    "vareAntallVekt" : "0.814",
+    "vareBelop" : "16.20"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "ISBERGSALAT STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.90"
+  }, {
+    "varenavn" : "RØDLØK 300G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.580",
+    "vareBelop" : "28.94"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "1.186",
+    "vareBelop" : "23.60"
+  }, {
+    "varenavn" : "NORVEGIA 27% SKORPEFRI CA1KG TINE",
+    "vareAntallVekt" : "0.988",
+    "vareBelop" : "97.81"
+  }, {
+    "varenavn" : "NORSK FJELLBRØD 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "SITRONSAFT 250ML REALEMON",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.90"
+  }, {
+    "varenavn" : "TORTILLAS WHOLE WHEAT 6STK 350G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "MATPAKKEBRØD 680G VÅRE GROVESTE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "34.90"
+  }, {
+    "varenavn" : "TACO SAUS MEDIUM 230G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "5.50"
+  }, {
+    "varenavn" : "SPAGHETTI FULLKORN ØKOLOGISK 500G ELDO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  }, {
+    "varenavn" : "BORDMARGARIN 400G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.70"
+  } ]
+}, {
+  "dato" : "12.12.2020",
+  "kvitteringsnummer" : "203223",
+  "kjede" : null,
+  "butikknavn" : "MENY Bergen Storsenter",
+  "totaltBelop" : "51.98",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SMÅGODT PR KG",
+    "vareAntallVekt" : "0.315",
+    "vareBelop" : "51.98"
+  } ]
+}, {
+  "dato" : "11.12.2020",
+  "kvitteringsnummer" : "7438",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "207.17",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "MUSLI FRUKT 700G AXA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "23.70"
+  }, {
+    "varenavn" : "CHIAFRØ ØKOLOGISK 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "SOLSIKKEKJERNER ØKOLOGISK 300G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.228",
+    "vareBelop" : "11.38"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.480",
+    "vareBelop" : "15.79"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.228",
+    "vareBelop" : "3.40"
+  }, {
+    "varenavn" : "MELKESJOKOLADE M/DAIM 200G FREIA",
+    "vareAntallVekt" : "4.000",
+    "vareBelop" : "99.60"
+  } ]
+}, {
+  "dato" : "30.11.2020",
+  "kvitteringsnummer" : "123098",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "91.01",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.698",
+    "vareBelop" : "22.96"
+  }, {
+    "varenavn" : "LØK GUL",
+    "vareAntallVekt" : "0.240",
+    "vareBelop" : "5.50"
+  }, {
+    "varenavn" : "CHAMPIGNON BAMA",
+    "vareAntallVekt" : "0.088",
+    "vareBelop" : "3.51"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.902",
+    "vareBelop" : "15.24"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "CHAMPIGNON 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "LETTMELK 1% 1L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.40"
+  } ]
+}, {
+  "dato" : "26.11.2020",
+  "kvitteringsnummer" : "120508",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "366.12",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "TOMAT SAUS PASSATA 680G DIVELLA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "BRINGEBÆRSYLTETØY U/SUKKER 330G LERUM",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "BORDMARGARIN 400G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.70"
+  }, {
+    "varenavn" : "ASPARGESBØNNER 300G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.30"
+  }, {
+    "varenavn" : "TACO SAUS MEDIUM 230G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "5.50"
+  }, {
+    "varenavn" : "TORTILLACHIPS CHEESE 185G MAARUD",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "23.80"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "1.048",
+    "vareBelop" : "20.86"
+  }, {
+    "varenavn" : "LETTMELK 1% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.90"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.250",
+    "vareBelop" : "12.48"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.754",
+    "vareBelop" : "12.74"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "NORVEGIA 27% SKORPEFRI CA1KG TINE",
+    "vareAntallVekt" : "1.118",
+    "vareBelop" : "87.09"
+  }, {
+    "varenavn" : "ISBERGSALAT STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.810",
+    "vareBelop" : "26.65"
+  }, {
+    "varenavn" : "MUSLI FRUKT 700G AXA",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "47.40"
+  } ]
+}, {
+  "dato" : "19.11.2020",
+  "kvitteringsnummer" : "28988",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "356.03",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "KJØTTBOLLER SVENSKE M/POTETMOS 566G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "59.90"
+  }, {
+    "varenavn" : "MELKESJOKOLADE M/DAIM 200G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "PIZZABUNN XXL FULLKORN 550G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.10"
+  }, {
+    "varenavn" : "LAKSEFILET NATURELL 4X125G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "44.30"
+  }, {
+    "varenavn" : "BLOMKÅL STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "TOMATBØNNER 410G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "4.70"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "1.946",
+    "vareBelop" : "38.73"
+  }, {
+    "varenavn" : "SOLSIKKEOLJE 1L ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "SQUASH GRØNN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "FRIELE FROKOST FILTERMALT 250G",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "98.70"
+  } ]
+}, {
+  "dato" : "16.11.2020",
+  "kvitteringsnummer" : "112754",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "220.68",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.256",
+    "vareBelop" : "14.05"
+  }, {
+    "varenavn" : "LETTMELK 1% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.90"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.370",
+    "vareBelop" : "3.33"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "GUDBRANDSDALSOST G35 1KG TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "77.90"
+  }, {
+    "varenavn" : "Ukjent produkt",
+    "vareAntallVekt" : "-1.000",
+    "vareBelop" : "-5.00"
+  }, {
+    "varenavn" : "MUSLI FRUKT 700G AXA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "23.70"
+  }, {
+    "varenavn" : "PENNE FULLKORN 525G SOPPS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "23.40"
+  }, {
+    "varenavn" : "PAPRIKA MALT 40G GL HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "22.40"
+  }, {
+    "varenavn" : "SWEET&SOUR SAUCE 500G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.50"
+  } ]
+}, {
+  "dato" : "12.11.2020",
+  "kvitteringsnummer" : "110030",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "266.83",
+  "korttype" : null,
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "MAISKORN 3X198G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.868",
+    "vareBelop" : "28.56"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "ISBERGSALAT STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.00"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.820",
+    "vareBelop" : "7.38"
+  }, {
+    "varenavn" : "AGURK HEL IMPORT",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "LAKSEFILET NATURELL 4X125G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "44.40"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.204",
+    "vareBelop" : "11.20"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.286",
+    "vareBelop" : "5.69"
+  }, {
+    "varenavn" : "ROSINER 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "BURGERBRØD HURRA 6STK 480G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  }, {
+    "varenavn" : "TORTILLAS WHOLE WHEAT 6STK 350G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "TACO SAUS MEDIUM 230G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "5.50"
+  }, {
+    "varenavn" : "BAKEPAPIR 38CMX8M UNIK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.30"
+  }, {
+    "varenavn" : "LINFRØ ØKOLOGISK 350G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "TOMAT SAUS PASSATA 680G DIVELLA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  } ]
+}, {
+  "dato" : "22.10.2020",
+  "kvitteringsnummer" : "93533",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "32.30",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "TOMATER HAKKEDE M/URTER 390G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "8.90"
+  }, {
+    "varenavn" : "PENNE FULLKORN 525G SOPPS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "23.40"
+  } ]
+}, {
+  "dato" : "21.10.2020",
+  "kvitteringsnummer" : "191356",
+  "kjede" : null,
+  "butikknavn" : "MENY Bergen Storsenter",
+  "totaltBelop" : "10.00",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.00"
+  } ]
+}, {
+  "dato" : "17.10.2020",
+  "kvitteringsnummer" : "89428",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "472.90",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SMASH! 200G NIDAR",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "RUCCULA 65G GRØNN&FRISK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.90"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "MUNNBIND KIRURGISK TYPE IIR 10STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "BIXIT SJOKOLADE 200G",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "43.80"
+  }, {
+    "varenavn" : "SOYAOLJE 1L ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "26.90"
+  }, {
+    "varenavn" : "SWEET&SOUR SAUCE 500G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.50"
+  }, {
+    "varenavn" : "FREIA SMAKFULL OREO SJOKOLADE 320G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "53.90"
+  }, {
+    "varenavn" : "JORDBÆRSYLTETØY U/SUKKER 330G LERUM",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "32.90"
+  }, {
+    "varenavn" : "MUSLI FRUKT 700G AXA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "32.40"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.422",
+    "vareBelop" : "8.40"
+  }, {
+    "varenavn" : "EPLER   NORSKE",
+    "vareAntallVekt" : "0.294",
+    "vareBelop" : "7.32"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.132",
+    "vareBelop" : "7.25"
+  }, {
+    "varenavn" : "SØRL.CHIPS SPANSK PAPRIKA 195G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "26.90"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.582",
+    "vareBelop" : "11.58"
+  }, {
+    "varenavn" : "LØK GUL",
+    "vareAntallVekt" : "0.334",
+    "vareBelop" : "7.65"
+  }, {
+    "varenavn" : "TACO SAUS MEDIUM 230G FIRST PRICE",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "11.00"
+  }, {
+    "varenavn" : "TORTILLAS WHOLE WHEAT 6STK 350G",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "49.80"
+  } ]
+}, {
+  "dato" : "17.10.2020",
+  "kvitteringsnummer" : "33056",
+  "kjede" : null,
+  "butikknavn" : "KIWI 833 Damsgårdssundet",
+  "totaltBelop" : "38.30",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "HVITLØK M/FEDD 2PK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "SANDWICHBAGUETTER FINE 4X75G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "8.90"
+  }, {
+    "varenavn" : "LEFSEGODT M/KANEL 2PK 220G BERTHAS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.50"
+  } ]
+}, {
+  "dato" : "15.10.2020",
+  "kvitteringsnummer" : "21140",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "391.83",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "JARLSBERG SKORPEFRI 700G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "99.00"
+  }, {
+    "varenavn" : "COLGATE TANNKREM KARIES KONTROLL 75ML",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.70"
+  }, {
+    "varenavn" : "HAMBURGER 8X100G GRILSTAD",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "99.00"
+  }, {
+    "varenavn" : "BÆREPOSE PR STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "2.00"
+  }, {
+    "varenavn" : "BURGERBRØD GROVE 6STK 480G REALE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "29.80"
+  }, {
+    "varenavn" : "FISKEGRATENG FAMILIENS 1KG FINDUS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "57.90"
+  }, {
+    "varenavn" : "PIZZA RISTORANTE MOZZARELLA 2PK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "76.40"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.504",
+    "vareBelop" : "10.03"
+  } ]
+}, {
+  "dato" : "12.10.2020",
+  "kvitteringsnummer" : "84976",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "269.30",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "LAKSEFILET NATURELL 4X125G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "46.90"
+  }, {
+    "varenavn" : "PIZZABUNN XXL 550G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "NORVEGIA 27% SK.FRI 500G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "59.40"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "AGURK HEL IMPORT",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.900",
+    "vareBelop" : "29.61"
+  }, {
+    "varenavn" : "SPAGHETTI FULLKORN ØKOLOGISK 500G ELDO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  }, {
+    "varenavn" : "TOMATKETCHUP U/SUKKER 510G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.90"
+  }, {
+    "varenavn" : "PALMOLIVE DUSJ MEN ASS.DUFTER 250ML",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.120",
+    "vareBelop" : "6.59"
+  } ]
+}, {
+  "dato" : "10.10.2020",
+  "kvitteringsnummer" : "20331",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "120.06",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "TORTILLA CHIPS ORIGINAL 450G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.40"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "MAISKORN 3X198G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "ERTER 350G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.80"
+  }, {
+    "varenavn" : "RUCCULA 65G GRØNN&FRISK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "MELKESJOKOLADE M/DAIM 200G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.234",
+    "vareBelop" : "4.66"
+  } ]
+}, {
+  "dato" : "05.10.2020",
+  "kvitteringsnummer" : "3581",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "188.47",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "EPLER   NORSKE",
+    "vareAntallVekt" : "0.732",
+    "vareBelop" : "18.23"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.158",
+    "vareBelop" : "8.67"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.732",
+    "vareBelop" : "14.57"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.392",
+    "vareBelop" : "7.80"
+  }, {
+    "varenavn" : "BLOMKÅL STK",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "45.80"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "LETTRØMME 18% 300G Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.70"
+  }, {
+    "varenavn" : "GROVBRØD 750G VÅRE GROVESTE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "34.90"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.40"
+  } ]
+}, {
+  "dato" : "01.10.2020",
+  "kvitteringsnummer" : "76462",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "111.39",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.322",
+    "vareBelop" : "6.41"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.180",
+    "vareBelop" : "9.88"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "TOMAT SAUS PASSATA 680G DIVELLA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "ISBERGSALAT STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.40"
+  }, {
+    "varenavn" : "SWEET&SOUR SAUCE 500G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.50"
+  }, {
+    "varenavn" : "AGURK GARTNER",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  } ]
+}, {
+  "dato" : "29.09.2020",
+  "kvitteringsnummer" : "74437",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "194.64",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BORDMARGARIN 400G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.754",
+    "vareBelop" : "15.00"
+  }, {
+    "varenavn" : "TORTILLAS LARGE SUPER SOFT 6STK 350G OEP",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "27.40"
+  }, {
+    "varenavn" : "BIXIT ORIGINAL 300G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "TACO SAUS MEDIUM 230G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "5.50"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.366",
+    "vareBelop" : "7.28"
+  }, {
+    "varenavn" : "CHIAFRØ ØKOLOGISK 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "ASPARGESBØNNER 300G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "MANDLER 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "31.90"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.634",
+    "vareBelop" : "18.96"
+  } ]
+}, {
+  "dato" : "24.09.2020",
+  "kvitteringsnummer" : "70475",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "150.31",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.332",
+    "vareBelop" : "6.61"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.142",
+    "vareBelop" : "4.25"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.244",
+    "vareBelop" : "4.86"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.162",
+    "vareBelop" : "8.89"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.00"
+  }, {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "MUSLI FRUKT 700G AXA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "32.40"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "ROSINER 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  } ]
+}, {
+  "dato" : "21.09.2020",
+  "kvitteringsnummer" : "67675",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "195.70",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "FULLKORNRIS BOIL IN BAG 1KG ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "35.40"
+  }, {
+    "varenavn" : "SPAGHETTI FULLKORN ØKOLOGISK 500G ELDO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  }, {
+    "varenavn" : "KORNBRØD GROVT 750G VÅRE GROVESTE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "34.90"
+  }, {
+    "varenavn" : "BLOMKÅL STK",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "49.80"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.196",
+    "vareBelop" : "3.90"
+  }, {
+    "varenavn" : "SPINATBLADER 450G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.90"
+  }, {
+    "varenavn" : "LAKSEFILET NATURELL 4X125G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "46.90"
+  } ]
+}, {
+  "dato" : "19.09.2020",
+  "kvitteringsnummer" : "66230",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "428.17",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.510",
+    "vareBelop" : "10.15"
+  }, {
+    "varenavn" : "GUDBRANDSDALSOST G35 1KG TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "93.90"
+  }, {
+    "varenavn" : "HAVREGRYN LETTKOKTE 1,1KG BJØRN",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "37.80"
+  }, {
+    "varenavn" : "HVETEMEL SIKTET 2KG MØLLERENS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "MELKESJOKOLADE M/DAIM 200G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "MUSLI FRUKT 700G AXA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "32.40"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "NORVEGIA 27% SKORPEFRI CA1KG TINE",
+    "vareAntallVekt" : "1.072",
+    "vareBelop" : "106.13"
+  }, {
+    "varenavn" : "EPLER   NORSKE",
+    "vareAntallVekt" : "1.822",
+    "vareBelop" : "63.59"
+  } ]
+}, {
+  "dato" : "16.09.2020",
+  "kvitteringsnummer" : "15920",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "63.74",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.712",
+    "vareBelop" : "14.24"
+  }, {
+    "varenavn" : "COLGATE TANNKREM KARIES KONTROLL 75ML",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.70"
+  }, {
+    "varenavn" : "TØRRGJÆR 5PK ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "TOMAT SAUS PASSATA 680G DIVELLA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  } ]
+}, {
+  "dato" : "15.09.2020",
+  "kvitteringsnummer" : "62896",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "201.97",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "LINFRØ ØKOLOGISK 350G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.222",
+    "vareBelop" : "12.19"
+  }, {
+    "varenavn" : "HONNING NO.1 AKASIE ØKOLOGISK 350G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "64.90"
+  }, {
+    "varenavn" : "SWEET&SOUR SAUCE 500G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.50"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.416",
+    "vareBelop" : "8.28"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "CHAMPIGNON 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.90"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.00"
+  }, {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  } ]
+}, {
+  "dato" : "10.09.2020",
+  "kvitteringsnummer" : "59176",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "107.49",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.166",
+    "vareBelop" : "3.30"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.298",
+    "vareBelop" : "11.59"
+  }, {
+    "varenavn" : "ISBERGSALAT STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "TORTILLAS LARGE SUPER SOFT 6STK 350G OEP",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "27.40"
+  }, {
+    "varenavn" : "AGURK HEL IMPORT",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  } ]
+}, {
+  "dato" : "07.09.2020",
+  "kvitteringsnummer" : "56327",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "231.62",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "MAISKORN 3X198G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "ROSINER 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "BLOMKÅL STK",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "49.80"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.184",
+    "vareBelop" : "3.66"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "1.440",
+    "vareBelop" : "28.66"
+  }, {
+    "varenavn" : "JIF BADEROM 500ML SPRAY",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "ASPARGESBØNNER 300G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "JORDBÆRSYLTETØY U/SUKKER 330G LERUM",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "32.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  } ]
+}, {
+  "dato" : "04.09.2020",
+  "kvitteringsnummer" : "54398",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "183.27",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BORDMARGARIN 400G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "PENNE FULLKORN 525G SOPPS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "23.40"
+  }, {
+    "varenavn" : "MELLOMBAR CHIA,QUINOA&NØTTER 138G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "BLENDA SENSITIVE FLYTENDE 595ML",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "54.90"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.288",
+    "vareBelop" : "5.73"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.212",
+    "vareBelop" : "11.64"
+  }, {
+    "varenavn" : "TACO SAUS MEDIUM 230G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "5.50"
+  }, {
+    "varenavn" : "BIXIT ORIGINAL 300G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  } ]
+}, {
+  "dato" : "31.08.2020",
+  "kvitteringsnummer" : "50420",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "247.29",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "FULLKORNRIS BOIL IN BAG 1KG ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "35.40"
+  }, {
+    "varenavn" : "AGURK GARTNER",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "SPAGHETTI FULLKORN ØKOLOGISK 500G ELDO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  }, {
+    "varenavn" : "SPINATBLADER 450G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.90"
+  }, {
+    "varenavn" : "MUSLI FRUKT 700G AXA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "32.40"
+  }, {
+    "varenavn" : "LAKSEFILET NATURELL 4X125G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "46.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.392",
+    "vareBelop" : "7.80"
+  }, {
+    "varenavn" : "NYPOTET KG",
+    "vareAntallVekt" : "0.508",
+    "vareBelop" : "10.11"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.416",
+    "vareBelop" : "16.18"
+  } ]
+}, {
+  "dato" : "21.08.2020",
+  "kvitteringsnummer" : "667",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "67.30",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BIXIT ORIGINAL 300G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "TACO KRYDDERMIX 28G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "3.10"
+  }, {
+    "varenavn" : "MANDLER 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "31.90"
+  }, {
+    "varenavn" : "ANSIKTSSERVIETTER F.P.",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.40"
+  } ]
+}, {
+  "dato" : "20.08.2020",
+  "kvitteringsnummer" : "41478",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "109.00",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "COTTAGE CHEESE 250G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "LETTRØMME 10% 300G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.40"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "AGURK HEL IMPORT",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  } ]
+}, {
+  "dato" : "17.08.2020",
+  "kvitteringsnummer" : "38393",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "134.56",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "HVETEMEL SIKTET 2KG MØLLERENS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "LØK GUL 2PK SEASON",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.80"
+  }, {
+    "varenavn" : "COTTAGE CHEESE 250G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "DRUER RØDE 500G CEVITA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "36.90"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.164",
+    "vareBelop" : "3.26"
+  }, {
+    "varenavn" : "ISBERGSALAT STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  } ]
+}, {
+  "dato" : "14.08.2020",
+  "kvitteringsnummer" : "7447",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "126.38",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "EGG FRITTGÅENDE S/M 12STK FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.90"
+  }, {
+    "varenavn" : "PEANUTBUTTER 350G MILLS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "37.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "BORDMARGARIN 400G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.416",
+    "vareBelop" : "8.28"
+  }, {
+    "varenavn" : "BLOMKÅL STK",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "20.00"
+  } ]
+}, {
+  "dato" : "12.08.2020",
+  "kvitteringsnummer" : "34231",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "25.80",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SPAGHETTI FULLKORN ØKOLOGISK 500G ELDO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  }, {
+    "varenavn" : "CHAMPIGNON 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.90"
+  } ]
+}, {
+  "dato" : "10.08.2020",
+  "kvitteringsnummer" : "32267",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "278.85",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "ASPARGESBØNNER 300G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "MELLOMBAR SJOKOLADE&KRISP 138G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "LAKSEFILET NATURELL 4X125G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "47.00"
+  }, {
+    "varenavn" : "MUSLI FRUKT 700G AXA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "32.40"
+  }, {
+    "varenavn" : "TORTILLAS LARGE SUPER SOFT 6STK 350G OEP",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "27.40"
+  }, {
+    "varenavn" : "MAISKORN 340G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "6.40"
+  }, {
+    "varenavn" : "CHAMPIGNON 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.90"
+  }, {
+    "varenavn" : "ISBERGSALAT STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.200",
+    "vareBelop" : "3.98"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.454",
+    "vareBelop" : "17.66"
+  }, {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.450",
+    "vareBelop" : "24.71"
+  }, {
+    "varenavn" : "AGURK GARTNER",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "SPINATBLADER 450G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.90"
+  } ]
+}, {
+  "dato" : "07.08.2020",
+  "kvitteringsnummer" : "30462",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "133.97",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SALTSTENGER 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.516",
+    "vareBelop" : "10.27"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "TOMAT SAUS PASSATA 680G DIVELLA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "LETTRØMME 18% 300G Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "CRISPI SALAT 150G FLOWPK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.80"
+  }, {
+    "varenavn" : "LØK GUL 2PK SEASON",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  } ]
+}, {
+  "dato" : "05.08.2020",
+  "kvitteringsnummer" : "29037",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "144.33",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "NORVEGIA 27% SKORPEFRI CA1KG TINE",
+    "vareAntallVekt" : "0.970",
+    "vareBelop" : "96.03"
+  }, {
+    "varenavn" : "PALMOLIVE DUSJ MEN ASS.DUFTER 250ML",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  } ]
+}, {
+  "dato" : "03.08.2020",
+  "kvitteringsnummer" : "27116",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "372.44",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "CRISPI SALAT 150G FLOWPK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "AGURK HEL IMPORT",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "TORTILLAS LARGE SUPER SOFT 6STK 350G OEP",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "27.40"
+  }, {
+    "varenavn" : "BLOMKÅL STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.00"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.384",
+    "vareBelop" : "7.64"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.456",
+    "vareBelop" : "17.74"
+  }, {
+    "varenavn" : "DRUER RØDE 500G CEVITA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "36.90"
+  }, {
+    "varenavn" : "TACO SAUCE MEDIUM 230G OLD EL PASO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.70"
+  }, {
+    "varenavn" : "JORDBÆR MOSTE LETT 530G NORA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "38.90"
+  }, {
+    "varenavn" : "NYPOTET GULE 1,5KG GARTNER",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "VEGODEIG FORMBAR 300G VEGME",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "38.90"
+  }, {
+    "varenavn" : "MELKESJOKOLADE F.PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "VITA HJERTEGO LETTMARGARIN 370G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "CORN FLAKES 750G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.236",
+    "vareBelop" : "12.96"
+  } ]
+}, {
+  "dato" : "01.08.2020",
+  "kvitteringsnummer" : "37371",
+  "kjede" : null,
+  "butikknavn" : "KIWI 826 Allehelgensgate",
+  "totaltBelop" : "65.98",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.190",
+    "vareBelop" : "3.78"
+  }, {
+    "varenavn" : "LETTRØMME 18% 300G Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "BIXIT ORIGINAL 300G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  } ]
+}, {
+  "dato" : "31.07.2020",
+  "kvitteringsnummer" : "15744",
+  "kjede" : null,
+  "butikknavn" : "KIWI 880 Strandgaten Bergen",
+  "totaltBelop" : "99.00",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "NIVEA SUN LOTION PROTECT&MOISTURE SPF30",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "99.00"
+  } ]
+}, {
+  "dato" : "30.07.2020",
+  "kvitteringsnummer" : "4403",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "150.44",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "EGG FRITTGÅENDE S/M 12STK FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.90"
+  }, {
+    "varenavn" : "CHOCO CHIP COOKIES 225G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "MELLOMBAR CHIA,QUINOA&NØTTER 138G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "NEKTARIN 1KG KURV",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "29.90"
+  }, {
+    "varenavn" : "ROSINER 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.60"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.50"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.188",
+    "vareBelop" : "3.74"
+  } ]
+}, {
+  "dato" : "27.07.2020",
+  "kvitteringsnummer" : "21730",
+  "kjede" : null,
+  "butikknavn" : "KIWI 818 Bøhmergaten",
+  "totaltBelop" : "200.15",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "CHAMPIGNON BAMA",
+    "vareAntallVekt" : "0.290",
+    "vareBelop" : "14.47"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.752",
+    "vareBelop" : "14.96"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.248",
+    "vareBelop" : "13.62"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1,75L Q",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.40"
+  }, {
+    "varenavn" : "DRUER RØDE 500G CEVITA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "TOMAT SAUS PASSATA 680G DIVELLA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "PESTO ALLA GENOVESE 185G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.90"
+  }, {
+    "varenavn" : "MAISKORN 340G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "6.40"
+  }, {
+    "varenavn" : "HAVREGRYN LETTKOKTE 1,1KG BJØRN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "SPINATBLADER 450G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.90"
+  }, {
+    "varenavn" : "HVETEMEL SIKTET 1KG MØLLERENS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "12.90"
+  } ]
+}, {
+  "dato" : "25.07.2020",
+  "kvitteringsnummer" : "14063",
+  "kjede" : null,
+  "butikknavn" : "KIWI 833 Damsgårdssundet",
+  "totaltBelop" : "344.92",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "MUSLI FRUKT 700G AXA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "32.40"
+  }, {
+    "varenavn" : "TOMATKETCHUP U/SUKKER 510G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.90"
+  }, {
+    "varenavn" : "VITA HJERTEGO LETTMARGARIN 370G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "SPAGHETTI FULLKORN ØKOLOGISK 500G ELDO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  }, {
+    "varenavn" : "AGURK GARTNER",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "RØDLØK 2PK SEASON",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "LETTMELK 0,5% 1L TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.350",
+    "vareBelop" : "6.96"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.458",
+    "vareBelop" : "17.82"
+  }, {
+    "varenavn" : "NORVEGIA 27% SKORPEFRI CA1KG TINE",
+    "vareAntallVekt" : "1.090",
+    "vareBelop" : "107.91"
+  }, {
+    "varenavn" : "POTETER LØSVEKT ASTERIX",
+    "vareAntallVekt" : "0.748",
+    "vareBelop" : "18.63"
+  } ]
+}, {
+  "dato" : "24.07.2020",
+  "kvitteringsnummer" : "112918",
+  "kjede" : null,
+  "butikknavn" : "MENY Rykkinn",
+  "totaltBelop" : "94.08",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "NEKTARIN STK",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "17.80"
+  }, {
+    "varenavn" : "RUNDSTYKKE PLUKK&MIX STK",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "25.00"
+  }, {
+    "varenavn" : "EPLER RØDE",
+    "vareAntallVekt" : "0.366",
+    "vareBelop" : "12.77"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.430",
+    "vareBelop" : "10.71"
+  }, {
+    "varenavn" : "GO MORGEN YOGHURT JORDBÆR&MÜSLI 195G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  }, {
+    "varenavn" : "GO MORGEN YOGHURT VANILJE&MÜSLI 195G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "13.90"
+  } ]
+}, {
+  "dato" : "29.06.2020",
+  "kvitteringsnummer" : "409657",
+  "kjede" : null,
+  "butikknavn" : "MENY Rykkinn",
+  "totaltBelop" : "1211.08",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "TAST PANT UTGÅENDE SALG AV EMB",
+    "vareAntallVekt" : "6.000",
+    "vareBelop" : "15.00"
+  }, {
+    "varenavn" : "PEPSI MAX 1,5L FL",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "110.70"
+  }, {
+    "varenavn" : "STONES GINGER JOE ORIGINAL 0,33L FL",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "119.70"
+  }, {
+    "varenavn" : "KAVIAR 245G MILLS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "29.90"
+  }, {
+    "varenavn" : "HELMELK 1,75L TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "35.30"
+  }, {
+    "varenavn" : "PESTO ALLA GENOVESE 185G ELDORADO",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "31.80"
+  }, {
+    "varenavn" : "HALMSTAD CIDER ALOHA 0,5L BX",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "137.70"
+  }, {
+    "varenavn" : "PHILADELPHIA ORIGINAL 200G",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "45.80"
+  }, {
+    "varenavn" : "JARLSBERG SKORPEFRI 700G TINE",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "208.00"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "2.322",
+    "vareBelop" : "57.81"
+  }, {
+    "varenavn" : "HAVREGRYN LETTKOKTE 1,1KG BJØRN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.20"
+  }, {
+    "varenavn" : "SITRON",
+    "vareAntallVekt" : "0.304",
+    "vareBelop" : "14.26"
+  }, {
+    "varenavn" : "BLOMKÅL STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "22.90"
+  }, {
+    "varenavn" : "NEKTARIN STK",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "17.80"
+  }, {
+    "varenavn" : "RØDLØK 2PK SEASON",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "NUGATTI SØTT-SALT-SPRØTT 325G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "47.90"
+  }, {
+    "varenavn" : "BRINGEBÆRSYLTETØY 80% UTS 275G NORA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "38.90"
+  }, {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.450",
+    "vareBelop" : "32.36"
+  }, {
+    "varenavn" : "JORDBÆRSYLTETØY 80% UTS 275G NORA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "33.90"
+  }, {
+    "varenavn" : "JORDBÆR NORSK KURV 500G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "59.90"
+  }, {
+    "varenavn" : "CRISPI SALAT 150G GO ECO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "29.90"
+  }, {
+    "varenavn" : "EPLER RØDE",
+    "vareAntallVekt" : "1.174",
+    "vareBelop" : "42.15"
+  }, {
+    "varenavn" : "NEKTARIN STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "8.90"
+  }, {
+    "varenavn" : "GJÆR FERSK 50G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "4.50"
+  }, {
+    "varenavn" : "GULROT 750G BEGER SEASON",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "29.90"
+  } ]
+}, {
+  "dato" : "29.06.2020",
+  "kvitteringsnummer" : "88109",
+  "kjede" : null,
+  "butikknavn" : "MENY Kolsås",
+  "totaltBelop" : "258.80",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SOMERSBY CIDER APPLE 0,5L BX",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "113.70"
+  }, {
+    "varenavn" : "SMÅGODT PR KG",
+    "vareAntallVekt" : "0.260",
+    "vareBelop" : "42.90"
+  }, {
+    "varenavn" : "SPINATBLADER 450G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.90"
+  }, {
+    "varenavn" : "BRINGEBÆR 400G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "23.90"
+  }, {
+    "varenavn" : "JORDBÆR 400G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "22.40"
+  }, {
+    "varenavn" : "MYLK HAVRE 1L BERIT NORDSTRAND",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "38.00"
+  }, {
+    "varenavn" : "TAST PANT UTGÅENDE SALG AV EMB",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "6.00"
+  } ]
+}, {
+  "dato" : "25.06.2020",
+  "kvitteringsnummer" : "408212",
+  "kjede" : null,
+  "butikknavn" : "MENY Rykkinn",
+  "totaltBelop" : "1039.26",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "FISKEGRATENG FAMILIENS 1KG FINDUS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "67.50"
+  }, {
+    "varenavn" : "PENNE FULLKORN 525G SOPPS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.30"
+  }, {
+    "varenavn" : "ERTER 350G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.80"
+  }, {
+    "varenavn" : "SOLSIKKEOLJE 1L ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.90"
+  }, {
+    "varenavn" : "TACO SAUCE MEDIUM 230G OLD EL PASO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "SALTSTENGER 250G SOLETTI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.50"
+  }, {
+    "varenavn" : "LEFSEGODT M/KANEL 2PK 220G BERTHAS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "NYPOTET GULE 900G SEASON",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "HVETEMEL SIKTET 2KG MØLLERENS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.00"
+  }, {
+    "varenavn" : "COLGATE TANNKREM KARIES KONTROLL 75ML",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "SØRL.CHIPS SPANSK PAPRIKA 195G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.90"
+  }, {
+    "varenavn" : "MELKESJOKOLADE KVIKK LUNSJ 200G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "34.90"
+  }, {
+    "varenavn" : "SØRLANDSCHIPS HAVSALT 195G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "20.90"
+  }, {
+    "varenavn" : "TOMATKETCHUP U/SUKKER 510G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.90"
+  }, {
+    "varenavn" : "SUKKER 1KG ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "22.20"
+  }, {
+    "varenavn" : "LAKSEFILET NATURELL U/SKINN 4X125G LOFOT",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "139.00"
+  }, {
+    "varenavn" : "PIZZASAUS BASILIKUM&OREGANO 280G ELDORAD",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "12.90"
+  }, {
+    "varenavn" : "CURRY HOT ORIENTAL 34G GL HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "KIKERTER ØKOLOGISK 380G GOGREEN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "20.20"
+  }, {
+    "varenavn" : "NYPOTET KG",
+    "vareAntallVekt" : "0.710",
+    "vareBelop" : "16.26"
+  }, {
+    "varenavn" : "TOMATER HAKKEDE NATURELL 390G ELDORADO",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "20.70"
+  }, {
+    "varenavn" : "KOKESJOKOLADE MØRK 100G ELDORADO",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "28.40"
+  }, {
+    "varenavn" : "MAISKORN 340G FIRST PRICE",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "10.80"
+  }, {
+    "varenavn" : "GROVBRØD NATURLIG SUNT 750G BAKEHUSET",
+    "vareAntallVekt" : "3.000",
+    "vareBelop" : "122.10"
+  }, {
+    "varenavn" : "SMASH! 200G NIDAR",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "101.80"
+  }, {
+    "varenavn" : "MELKESJOKOLADE M/DAIM 200G FREIA",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "69.80"
+  }, {
+    "varenavn" : "SUPERGRANOLA KAKAO&BRINGEBÆR 450G",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "89.00"
+  } ]
+}, {
+  "dato" : "20.06.2020",
+  "kvitteringsnummer" : "116327",
+  "kjede" : null,
+  "butikknavn" : "MENY Rykkinn",
+  "totaltBelop" : "77.34",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "PASTINAKK KH",
+    "vareAntallVekt" : "0.460",
+    "vareBelop" : "40.94"
+  }, {
+    "varenavn" : "MELKERULL 74G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "20.50"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.90"
+  } ]
+}, {
+  "dato" : "17.06.2020",
+  "kvitteringsnummer" : "379661",
+  "kjede" : null,
+  "butikknavn" : "MENY Rykkinn",
+  "totaltBelop" : "80.70",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "LINFRØ ØKOLOGISK 350G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.50"
+  }, {
+    "varenavn" : "SIRUP LYS 500G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "NYPOTET KG",
+    "vareAntallVekt" : "1.022",
+    "vareBelop" : "23.40"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  } ]
+}, {
+  "dato" : "04.05.2020",
+  "kvitteringsnummer" : "115951",
+  "kjede" : null,
+  "butikknavn" : "MENY Rykkinn",
+  "totaltBelop" : "134.30",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "MELKESJOKOLADE M/DAIM 200G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "43.90"
+  }, {
+    "varenavn" : "AFTER EIGHT 200G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "38.90"
+  }, {
+    "varenavn" : "SMASH! 200G NIDAR",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "51.50"
+  } ]
+}, {
+  "dato" : "10.03.2020",
+  "kvitteringsnummer" : "1023144",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "194.81",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "0.930",
+    "vareBelop" : "18.51"
+  }, {
+    "varenavn" : "TORTILLA ORIGINAL LARGE 12STK ST.MARIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "35.40"
+  }, {
+    "varenavn" : "AGURK GO ECO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "26.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "27.90"
+  }, {
+    "varenavn" : "CRUNCHY MUSLI 750G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "FROKOSTEGG FRITTGÅENDE L 12PK PRIOR",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "35.40"
+  }, {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "BIXIT ORIGINAL 300G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  } ]
+}, {
+  "dato" : "06.03.2020",
+  "kvitteringsnummer" : "1019787",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "108.36",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.552",
+    "vareBelop" : "19.26"
+  }, {
+    "varenavn" : "SAFARI COOKIES ORIGINAL 200G SÆTRE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "TORTILLA CHIPS ORIGINAL 450G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.40"
+  }, {
+    "varenavn" : "TACOSALSA MEDIUM 310G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "12.90"
+  }, {
+    "varenavn" : "MELKESJOKOLADE 200G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  } ]
+}, {
+  "dato" : "03.03.2020",
+  "kvitteringsnummer" : "1015963",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "499.19",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "MAJONES REAL 400G HELLMANN'S",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "38.40"
+  }, {
+    "varenavn" : "HELMELK 1L TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.40"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "27.90"
+  }, {
+    "varenavn" : "PIZZABUNN XXL 550G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.00"
+  }, {
+    "varenavn" : "LAKSEFILET NATURELL 4X125G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "47.40"
+  }, {
+    "varenavn" : "KREMGO KRYDDER 125G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "GUDBRANDSDALSOST G35 1KG TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "89.90"
+  }, {
+    "varenavn" : "COTTAGE CHEESE 250G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "NORVEGIA 27% SKORPEFRI CA1KG TINE",
+    "vareAntallVekt" : "1.058",
+    "vareBelop" : "104.74"
+  }, {
+    "varenavn" : "PAPRIKA FIRST PRICE",
+    "vareAntallVekt" : "0.530",
+    "vareBelop" : "26.45"
+  }, {
+    "varenavn" : "LEVERPOSTEI 200G STABBURET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.20"
+  }, {
+    "varenavn" : "TACOSAUS MEDIUM 230G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "KIDNEYBØNNER 380G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "5.90"
+  }, {
+    "varenavn" : "PIZZASAUS 290G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "TACO KRYDDERMIX 28G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "2.50"
+  }, {
+    "varenavn" : "JORDBÆR MOSA HEIMEFRÅ 380G LERUM",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "27.90"
+  } ]
+}, {
+  "dato" : "26.02.2020",
+  "kvitteringsnummer" : "1010286",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "319.27",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "HVITLØK U/FEDD 100G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "TORTILLA ORIGINAL LARGE 12STK ST.MARIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "35.40"
+  }, {
+    "varenavn" : "KIDNEYBØNNER ØKOLOGISK 380G GO ECO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "12.40"
+  }, {
+    "varenavn" : "MANDLER 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "27.90"
+  }, {
+    "varenavn" : "MAISKORN 3X198G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "COTTAGE CHEESE 250G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "HAMBURGER 8X100G GRILSTAD",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "99.00"
+  }, {
+    "varenavn" : "RØDLØK 300G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.40"
+  }, {
+    "varenavn" : "ISBERGSALAT STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.80"
+  }, {
+    "varenavn" : "TACO KRYDDERMIX 28G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "2.50"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.80"
+  }, {
+    "varenavn" : "BURGERBRØD STORE M/SESAM 6STK 480G REALE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.386",
+    "vareBelop" : "13.47"
+  } ]
+}, {
+  "dato" : "24.02.2020",
+  "kvitteringsnummer" : "1007911",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "219.50",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "MELLOMBAR SJOKOLADE&KRISP 138G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "TOALETTPAPIR SOFT 3LAGS 40RL UNIK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "119.00"
+  }, {
+    "varenavn" : "CHAMPIGNON 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "EGGNUDLER 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "GROVBRØD 100% 750G KIWI",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "55.80"
+  } ]
+}, {
+  "dato" : "20.02.2020",
+  "kvitteringsnummer" : "718282",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "159.10",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.90"
+  }, {
+    "varenavn" : "SOYASAUS 150ML KIKKOMAN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "27.90"
+  }, {
+    "varenavn" : "KIDNEYBØNNER 380G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "5.90"
+  }, {
+    "varenavn" : "CRUNCHY MUSLI 750G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "PAPRIKA MALT 40G GL HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "20.40"
+  }, {
+    "varenavn" : "TOMATER HAKKEDE ØKOLOGISK 400G GO ECO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.40"
+  }, {
+    "varenavn" : "CHILI POWDER 43G GL HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.40"
+  }, {
+    "varenavn" : "SITRONPEPPER MALT 65G GL HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.40"
+  } ]
+}, {
+  "dato" : "18.02.2020",
+  "kvitteringsnummer" : "1001695",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "135.80",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "PIZZABUNN XXL 550G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.00"
+  }, {
+    "varenavn" : "KIDNEYBØNNER ØKOLOGISK 380G GOGREEN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "PENNE FULLKORN 525G SOPPS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "23.20"
+  }, {
+    "varenavn" : "HAVREBRØD NATURLIG SUNT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "36.40"
+  }, {
+    "varenavn" : "COTTAGE CHEESE 250G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "PIZZASAUS 290G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "TACO KRYDDERMIX 28G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "2.50"
+  } ]
+}, {
+  "dato" : "15.02.2020",
+  "kvitteringsnummer" : "998896",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "51.70",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "HELMELK 1L TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.40"
+  }, {
+    "varenavn" : "TØRRGJÆR SØT DEIG 5PK IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "32.30"
+  } ]
+}, {
+  "dato" : "14.02.2020",
+  "kvitteringsnummer" : "997903",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "195.85",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BAKEARK 18ARK UNIK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.00"
+  }, {
+    "varenavn" : "CRUNCHY MUSLI 750G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "SOFT FLORA ORIGINAL MARGARIN 600G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "28.90"
+  }, {
+    "varenavn" : "NORVEGIA 27% SKORPEFRI CA1KG TINE",
+    "vareAntallVekt" : "1.046",
+    "vareBelop" : "117.15"
+  }, {
+    "varenavn" : "AGURK HEL IMPORT",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "20.90"
+  } ]
+}, {
+  "dato" : "12.02.2020",
+  "kvitteringsnummer" : "995594",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "194.70",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "PIZZASAUS 290G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "COTTAGE CHEESE 250G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "TACO SPICE MIX 28G ST.MARIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "4.20"
+  }, {
+    "varenavn" : "KIDNEYBØNNER ØKOLOGISK 380G GOGREEN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "MELLOMBAR SJOKOLADE&KRISP 138G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "PIZZABUNN XXL 550G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.00"
+  }, {
+    "varenavn" : "CHAMPIGNON 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.00"
+  }, {
+    "varenavn" : "HVERDAGSGROVT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "PAPRIKA FIRST PRICE",
+    "vareAntallVekt" : "0.346",
+    "vareBelop" : "17.27"
+  }, {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "1.052",
+    "vareBelop" : "20.93"
+  } ]
+}, {
+  "dato" : "07.02.2020",
+  "kvitteringsnummer" : "119853",
+  "kjede" : null,
+  "butikknavn" : "Joker Spilde",
+  "totaltBelop" : "133.70",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "GREVENS CIDER PÆRE 0,5L BX",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "41.90"
+  }, {
+    "varenavn" : "STONES GINGER JOE ORIGINAL 0,33L FL",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "40.90"
+  }, {
+    "varenavn" : "HALMSTAD COCTAIL LONG BEACH 4,7% 0,5L BX",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "46.90"
+  }, {
+    "varenavn" : "TAST PANT UTGÅENDE SALG AV EMB",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "4.00"
+  } ]
+}, {
+  "dato" : "06.02.2020",
+  "kvitteringsnummer" : "37330",
+  "kjede" : null,
+  "butikknavn" : "MENY Bergen Storsenter",
+  "totaltBelop" : "76.30",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "MELKESJOKOLADE EVENTYR 24G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.40"
+  }, {
+    "varenavn" : "SJOKOLADEDRIKK 450G BOKS REGIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "64.90"
+  } ]
+}, {
+  "dato" : "06.02.2020",
+  "kvitteringsnummer" : "712430",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "199.36",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "SØTPOTET KG",
+    "vareAntallVekt" : "0.964",
+    "vareBelop" : "33.64"
+  }, {
+    "varenavn" : "APPELSINER KG",
+    "vareAntallVekt" : "0.908",
+    "vareBelop" : "13.62"
+  }, {
+    "varenavn" : "HVETEMEL SIKTET 1KG BOKS MØLLERENS",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "21.40"
+  }, {
+    "varenavn" : "VANILJESUKKER 175G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "20.90"
+  }, {
+    "varenavn" : "BAKEPULVER 250G FREIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "KOKESJOKOLADE MØRK 100G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "11.90"
+  }, {
+    "varenavn" : "TORTILLA ORIGINAL LARGE 12STK ST.MARIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "35.40"
+  }, {
+    "varenavn" : "APPELSINJUICE 2L F.PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "12.90"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.80"
+  }, {
+    "varenavn" : "CHAMPIGNON 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  } ]
+}, {
+  "dato" : "06.02.2020",
+  "kvitteringsnummer" : "989279",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "137.10",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BANANER BAMA",
+    "vareAntallVekt" : "1.030",
+    "vareBelop" : "20.50"
+  }, {
+    "varenavn" : "PALMOLIVE ROLL-ON MEN SPORT 50ML",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "BLUE 3 HØVEL SMOOTH ENGANGS 4STK GILLETT",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "GILLETTE BARBERGEL SKINGUARD SENSITIVE 2",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "39.90"
+  }, {
+    "varenavn" : "PIZZASAUS 290G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  } ]
+}, {
+  "dato" : "01.02.2020",
+  "kvitteringsnummer" : "123307",
+  "kjede" : null,
+  "butikknavn" : "MENY Bergen Storsenter",
+  "totaltBelop" : "71.60",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BEN&JERRY'S WICH COOKIE DOUGH 80ML",
+    "vareAntallVekt" : "2.000",
+    "vareBelop" : "71.60"
+  } ]
+}, {
+  "dato" : "01.02.2020",
+  "kvitteringsnummer" : "710547",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "202.15",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "CRUNCHY MUSLI 750G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "HELMELK 1L TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "MAISKORN 3X198G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.40"
+  }, {
+    "varenavn" : "PESTO ALLA GENOVESE 185G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.60"
+  }, {
+    "varenavn" : "GUDBRANDSDALSOST G35 1KG TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "84.90"
+  }, {
+    "varenavn" : "PAPRIKA FIRST PRICE",
+    "vareAntallVekt" : "0.532",
+    "vareBelop" : "26.55"
+  }, {
+    "varenavn" : "PIZZABUNN XXL 550G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.00"
+  } ]
+}, {
+  "dato" : "25.01.2020",
+  "kvitteringsnummer" : "707513",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "404.25",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "HELMELK 1L TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "MEIERISMØR 500G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "35.80"
+  }, {
+    "varenavn" : "CHAMPIGNON 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "TORTILLAS LARGE SUPER SOFT 6STK 350G OEP",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "GROVBRØD NATURLIG SUNT 750G BAKEHUSET",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "36.40"
+  }, {
+    "varenavn" : "PIZZABUNN XXL 550G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.00"
+  }, {
+    "varenavn" : "TACO SPICE MIX 28G ST.MARIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "7.90"
+  }, {
+    "varenavn" : "COTTAGE CHEESE 250G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "TOMATPURE 140G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "4.90"
+  }, {
+    "varenavn" : "GRØNNSAKSBULJONG 5L KLAR MAGGI",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.90"
+  }, {
+    "varenavn" : "CHIAFRØ ØKOLOGISK 250G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.90"
+  }, {
+    "varenavn" : "CRUNCHY MUSLI 750G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "MUSKATNØTT MALT 12G POS HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "MILO ULLVASK PARFYMEFRI 595ML",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "48.40"
+  }, {
+    "varenavn" : "KIDNEYBØNNER ØKOLOGISK 380G GOGREEN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.40"
+  }, {
+    "varenavn" : "OREGANO 28G HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "20.90"
+  }, {
+    "varenavn" : "PAPRIKA FIRST PRICE",
+    "vareAntallVekt" : "0.476",
+    "vareBelop" : "23.75"
+  }, {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.90"
+  }, {
+    "varenavn" : "GULROT 1KG POSE FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.80"
+  } ]
+}, {
+  "dato" : "22.01.2020",
+  "kvitteringsnummer" : "973774",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "315.70",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "KIDNEYBØNNER ØKOLOGISK 380G GOGREEN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "19.40"
+  }, {
+    "varenavn" : "FISKEPINNER 750G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "PIZZASAUS 290G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "HAMBURGERDRESSING 470G IDUN",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "22.90"
+  }, {
+    "varenavn" : "ERTER 350G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "9.10"
+  }, {
+    "varenavn" : "COTTAGE CHEESE 250G TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "POMMES FRITES 1,2KG F.P",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "25.90"
+  }, {
+    "varenavn" : "TACO SPICE MIX 28G ST.MARIA",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "7.90"
+  }, {
+    "varenavn" : "LØK GUL I STRØMPE 4STK 700G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "REVET OST ORIGINAL 300G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "43.90"
+  }, {
+    "varenavn" : "NORVEGIA 27% 1,3KG TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "99.00"
+  }, {
+    "varenavn" : "PIZZABUNN XXL 550G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.00"
+  } ]
+}, {
+  "dato" : "17.01.2020",
+  "kvitteringsnummer" : "703601",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "290.82",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "PAPRIKA RØD",
+    "vareAntallVekt" : "0.244",
+    "vareBelop" : "14.62"
+  }, {
+    "varenavn" : "ISBERGSALAT STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "TOALETTPAPIR SOFT 3LAGS 40RL UNIK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "119.00"
+  }, {
+    "varenavn" : "CHERRY TOMAT 250G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.80"
+  }, {
+    "varenavn" : "MELLOMBAR SJOKOLADE&KRISP 138G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "SMASH! 200G NIDAR",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "36.90"
+  }, {
+    "varenavn" : "TORTILLACHIPS CHEESE 185G MAARUD",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "36.80"
+  }, {
+    "varenavn" : "AGURK GO ECO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "26.90"
+  } ]
+}, {
+  "dato" : "16.01.2020",
+  "kvitteringsnummer" : "90773",
+  "kjede" : null,
+  "butikknavn" : "KIWI 813 Strømgaten",
+  "totaltBelop" : "283.70",
+  "korttype" : "Bankkonto",
+  "kanal" : null,
+  "varelinjer" : [ {
+    "varenavn" : "CRUNCHY MUSLI 750G FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.90"
+  }, {
+    "varenavn" : "HELMELK 1L TINE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "18.90"
+  }, {
+    "varenavn" : "MAISKORN 3X198G ELDORADO",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "14.40"
+  }, {
+    "varenavn" : "OLIVENOLJE 1L FIRST PRICE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "34.90"
+  }, {
+    "varenavn" : "PIZZAKRYDDER 25G BX HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "17.40"
+  }, {
+    "varenavn" : "PEPPER MALT 98G BX HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "26.90"
+  }, {
+    "varenavn" : "SELTIN ORIGINAL 90G",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "24.90"
+  }, {
+    "varenavn" : "POMMES FRITES KRYDDER 130G BX HOFF",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "30.90"
+  }, {
+    "varenavn" : "GRILLKRYDDER 160G BX HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "15.40"
+  }, {
+    "varenavn" : "KARRI MALT 34G GL HINDU",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "20.40"
+  }, {
+    "varenavn" : "BROKKOLI STK",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "10.00"
+  }, {
+    "varenavn" : "LØK 2STK 450G STRØMPE",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "16.90"
+  }, {
+    "varenavn" : "FROKOSTEGG FRITTGÅENDE L 12PK PRIOR",
+    "vareAntallVekt" : "1.000",
+    "vareBelop" : "34.80"
+  } ]
+} ]
