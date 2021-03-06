@@ -205,7 +205,7 @@ def plotByStoreNameAndCategory(storeName, category): #storeName ex: 'kiwi', 'men
             prices.append(price)
             dates.append(date)
         if(len(dates)>2):
-            plt.plot(dates, prices, label=item)
+            plt.plot(dates, prices, label=item, linestyle='--', marker='o')
     # plotting
     plt.title(f"Prices of {category} in {storeName}")
     plt.xlabel("Date")
@@ -213,7 +213,7 @@ def plotByStoreNameAndCategory(storeName, category): #storeName ex: 'kiwi', 'men
     plt.grid()
     plt.legend()
     plt.show()
-    
+
 plotByStoreNameAndCategory("", "vegetable")
 
 
